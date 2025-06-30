@@ -1,0 +1,27 @@
+
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="20" role="img" aria-label="daily visitor: 628">
+      <title>daily visitor: 628</title>
+      
+      <linearGradient xmlns="http://www.w3.org/2000/svg" id="gradient" x2="0" y2="100%"><stop offset="0" stop-color="#555" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient>
+
+      
+
+      <clipPath id="roundedClip"><rect width="110" height="20" rx="3" fill="#fff"/></clipPath>
+      
+      
+
+      <g clip-path="url(#roundedClip)" >
+        <rect width="76" height="20" fill="#555" />
+        <rect x="76" width="34" height="20" fill="#2ccce4" />
+
+        <rect xmlns="http://www.w3.org/2000/svg" width="110" height="20" fill="url(#gradient)"/>
+      </g>
+      <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+        
+        <text fill="#fff" x="380" y="140" transform="scale(.1)" textLength="620">daily visitor</text>
+        
+        <text fill="#fff" x="930" y="140" transform="scale(.1)" textLength="200" >628</text>
+      </g>
+      
+    </svg>
+    
